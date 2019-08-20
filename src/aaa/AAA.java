@@ -18,6 +18,7 @@ public class AAA {
 		int i;
         for( i = 0;i <PRICE_TABLE_TIME;i++){
            Demo();
+           
         }
        
 		}
